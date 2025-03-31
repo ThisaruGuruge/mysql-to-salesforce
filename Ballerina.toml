@@ -1,0 +1,4 @@
+[package]
+org = "thisaru"
+name = "mysql_to_salesforce"
+version = "0.1.0"
